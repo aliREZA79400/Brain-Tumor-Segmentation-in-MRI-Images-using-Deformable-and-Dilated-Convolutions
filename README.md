@@ -9,6 +9,9 @@ This project focuses on rerunning a deep learning-based solution for segmenting 
 - **Segmentation**: The model is trained to produce pixel-wise segmentation masks for brain tumors.
 - **MRI Images**: The project is designed to work with standard MRI image formats.
 
+## Dataset 
+https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+
 ## Installation
 To set up the project, follow these steps:
 
