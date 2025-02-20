@@ -1,6 +1,7 @@
 # Brain Tumor Segmentation in MRI Images using Deformable and Dilated Convolutions
 
 ## Overview
+[Implementation of this article](https://www.researchgate.net/publication/379717582_Brain_Tumor_Segmentation_in_MRI_Images_using_Deformable_and_Dilated_Convolutions)
 This project focuses on rerunning a deep learning-based solution for segmenting brain tumors in MRI images. The approach leverages deformable convolutions and dilated convolutions to improve the model's ability to detect and segment tumors accurately.
 
 ## Features
